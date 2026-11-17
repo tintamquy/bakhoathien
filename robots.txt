@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tintamquy.github.io/bakhoathien/sitemap.xml
+Sitemap: https://tuniemxu.pages.dev/sitemap.xml
