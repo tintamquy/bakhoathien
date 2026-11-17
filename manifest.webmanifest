@@ -1,0 +1,15 @@
+{
+  "name": "Ba Khóa Thiền — Chùa Pháp Vân, Hà Nội",
+  "short_name": "Khóa Thiền",
+  "description": "3 khóa thiền – 1 hành trình tĩnh lặng. Đăng ký tham dự tại Chùa Pháp Vân, Hà Nội.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6ead0",
+  "theme_color": "#7d1a1a",
+  "lang": "vi",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
